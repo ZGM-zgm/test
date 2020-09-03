@@ -5,6 +5,6 @@ import com.gm.dao.UserDao;
 public class User implements UserDao {
     @Override
     public void show() {
-        System.out.println("hello，world!");
+        System.out.println("hello，world");
     }
 }
